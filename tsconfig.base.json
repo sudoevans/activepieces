@@ -587,6 +587,9 @@
       "@activepieces/piece-photoroom": [
         "packages/pieces/community/photoroom/src/index.ts"
       ],
+      "@activepieces/piece-zoho-desk": [
+        "packages/pieces/community/zoho-desk/src/index.ts"
+      ],
       "@activepieces/piece-pipedrive": [
         "packages/pieces/community/pipedrive/src/index.ts"
       ],
@@ -765,6 +768,9 @@
       "@activepieces/piece-tally": [
         "packages/pieces/community/tally/src/index.ts"
       ],
+      "@activepieces/piece-tarvent": [
+        "packages/pieces/community/tarvent/src/index.ts"
+      ],
       "@activepieces/piece-taskade": [
         "packages/pieces/community/taskade/src/index.ts"
       ],
@@ -782,6 +788,9 @@
       ],
       "@activepieces/piece-thankster": [
         "packages/pieces/community/thankster/src/index.ts"
+      ],
+      "@activepieces/piece-ticktick": [
+        "packages/pieces/community/ticktick/src/index.ts"
       ],
       "@activepieces/piece-tidycal": [
         "packages/pieces/community/tidycal/src/index.ts"
@@ -882,6 +891,9 @@
       ],
       "@activepieces/piece-zoho-invoice": [
         "packages/pieces/community/zoho-invoice/src/index.ts"
+      ],
+      "@activepieces/piece-zoho-mail": [
+        "packages/pieces/community/zoho-mail/src/index.ts"
       ],
       "@activepieces/piece-zoo": ["packages/pieces/community/zoo/src/index.ts"],
       "@activepieces/piece-zoom": [
